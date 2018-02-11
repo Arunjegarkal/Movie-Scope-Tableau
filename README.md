@@ -1,5 +1,10 @@
 # Movie Scope Tableau
 
+Dashboard link
+
+https://arunjegarkal.github.io/Movie-Scope-Tableau/index.html
+
+
     Abstract    
 In this paper we implement a system through which we can analyze and predict the box office collection of the movies. We build the system in such a way that people from various backgrounds can also interact with the system and the data we have. Through the interaction they can also find hidden trends and insights which some of us miss. The data contains various variables which are compiled from various sources. The data can be extremely exhaustive but we have tried to collect the information essential for the analysis of trends and insights.
 
